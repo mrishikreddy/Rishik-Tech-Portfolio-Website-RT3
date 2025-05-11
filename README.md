@@ -11,9 +11,6 @@ Welcome to the repository for my personal portfolio website, showcasing my skill
 - [Project Structure](#project-structure)
 - [APIs](#apis)
 - [Security and Copyright Note](#security-and-copyright-note)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 This portfolio website serves as a digital resume for Rishik Reddy, highlighting my education, skills, projects, achievements, and work experience. It includes an interactive AI component powered by Gemini 2.0 Flash to answer queries about me and a contact form that sends messages via email.
@@ -128,24 +125,5 @@ To run this project locally, follow these steps:
 
 ## Security and Copyright Note
 Partial code has been intentionally removed for security purposes and copyright protection. This repository is designed to demonstrate the structure and functionality of my portfolio website, showcasing how it works behind the scenes. Sensitive logic, API keys, and proprietary code are excluded to protect intellectual property and maintain security.
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Please ensure your code follows the existing style and includes appropriate tests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, reach out via the contact form on the website or email me directly at [your-email@example.com]. You can also connect with me on:
-- GitHub: [your-github-username]
-- LinkedIn: [your-linkedin-profile]
-- Twitter: [your-twitter-handle]
 
 Thank you for visiting my portfolio repository!
