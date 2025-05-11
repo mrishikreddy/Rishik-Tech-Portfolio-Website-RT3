@@ -126,4 +126,6 @@ To run this project locally, follow these steps:
 ## Security and Copyright Note
 Partial code has been intentionally removed for security purposes and copyright protection. This repository is designed to demonstrate the structure and functionality of my portfolio website, showcasing how it works behind the scenes. Sensitive logic, API keys, and proprietary code are excluded to protect intellectual property and maintain security.
 
-## Thank you for visiting my portfolio repository!
+---
+
+Thank you for visiting my portfolio repository
