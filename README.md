@@ -38,7 +38,7 @@ This portfolio website serves as a digital resume for Rishik Reddy, highlighting
   - Gemini 2.0 Flash for AI-powered Q&A
   - Custom email API for contact form submissions
 - **JavaScript Libraries**: React (via Next.js), useState, useEffect for state management and lifecycle handling
-- **Deployment**: Vercel (recommended for Next.js projects)
+- **Deployment**: Vercel
 
 ## Installation
 To run this project locally, follow these steps:
